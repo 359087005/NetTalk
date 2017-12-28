@@ -34,7 +34,7 @@ namespace NetFirst
 
             Console.WriteLine("hello world");
             Serv serv = new Serv();
-            serv.Start("192.168.1.173",8888);
+            serv.Start("192.168.1.173",8888); //本机IP地址  如果输入127.0.0.1  那么端口只对本机自己服务
             while (true)
             {
                 string str = Console.ReadLine();
