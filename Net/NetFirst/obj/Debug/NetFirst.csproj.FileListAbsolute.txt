@@ -1,0 +1,6 @@
+E:\VSProject\Net\NetFirst\bin\Debug\NetFirst.exe.config
+E:\VSProject\Net\NetFirst\bin\Debug\NetFirst.exe
+E:\VSProject\Net\NetFirst\bin\Debug\NetFirst.pdb
+E:\VSProject\Net\NetFirst\obj\Debug\NetFirst.csprojResolveAssemblyReference.cache
+E:\VSProject\Net\NetFirst\obj\Debug\NetFirst.exe
+E:\VSProject\Net\NetFirst\obj\Debug\NetFirst.pdb
